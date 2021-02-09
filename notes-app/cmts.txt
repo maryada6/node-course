@@ -1,0 +1,16 @@
+// console.log((chalk.green.bold.inverse('Success!')));
+// console.log(process.argv[2]);
+
+// const getNotes= require('./notes');
+// const value=getNotes();
+// console.log(value);
+
+// console.log(validator.isEmail('subhamlodha6@gmail.com'));
+
+// const fs=require('fs');
+// fs.writeFileSync('notes.txt','MAryada here');
+// fs.appendFileSync('notes.txt','\nChallenge 1 done')
+
+// require('./utils')
+// const name='Maryada'
+// console.log(name);
